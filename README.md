@@ -1,4 +1,3 @@
-﻿# LearnSnap AI - backend
 # ⚙️ LearnSnap AI Backend
 
 <p align="center">
