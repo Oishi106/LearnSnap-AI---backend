@@ -151,21 +151,6 @@ MongoDB
 
 Frontend
 ```
-
----
-
-# ▶️ Local Setup
-
-```bash
-git clone https://github.com/shoikotsazzad/LearnSnap-AI.git
-
-cd backend
-
-npm install
-
-npm run dev
-```
-
 ---
 
 # 🔐 Environment Variables
