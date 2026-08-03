@@ -13,7 +13,7 @@ AI Processing Engine powered by Gemma 4 Vision
 
 ## 🌐 API
 
-https://backend-two-lemon-92.vercel.app
+https://learnsnap-ai-backend.onrender.com/
 
 ---
 
@@ -184,11 +184,11 @@ GEMMA_API_KEY=
 
 Frontend
 
-https://learnsnap-eta.vercel.app
+https://learnsnap-ai.vercel.app/
 
 Backend
 
-https://backend-two-lemon-92.vercel.app
+https://learnsnap-ai-backend.onrender.com
 
 ---
 
